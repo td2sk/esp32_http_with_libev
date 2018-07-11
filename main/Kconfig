@@ -1,0 +1,13 @@
+menu evserver
+
+config WIFI_SSID
+  string "WiFi SSID"
+  help
+    SSID for your WiFi
+
+config WIFI_PASSWORD
+  string "WiFi password"
+  help
+    password for your WiFi
+
+endmenu
